@@ -2,10 +2,10 @@
 
 An assignment for my Java 1 class. The requirements are as follows:
 
-##Problem:
+## Problem:
 
 Given a student's numerical grade, output a corresponding letter grade based on a standard grading scale.
-##Input:
+## Input:
 
 The student's first and last name, a score, and the maximum points possible. 
 Processing:
@@ -15,7 +15,7 @@ For example:
 If grade >= 94, letter grade = "A"
 If grade >= 90, letter grade = "A-"
 ... (see syllabus for remaining categories)
-##Output:
+## Output:
 
  Print the student's first name and last name, the letter grade, and the percent score formatted to 2 decimal points.
 Example Run:
