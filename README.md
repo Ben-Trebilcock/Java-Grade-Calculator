@@ -1,6 +1,6 @@
 # Java-Grade-Calculator
 
-An assignment for my Java 1 class. The requirements are as follows:
+An assignment for my Java class. The requirements are as follows:
 
 ## Problem:
 
